@@ -61,7 +61,7 @@ A minha PAP consiste no desenvolvimento da Rosatta Automotive, uma marca fictíc
 ## Planeamento
 
 | Fase                                  | Período             | Estado    |
-| --- --------------------------------- | ------------------- | --------- |
+| ------------------------------------- | ------------------- | --------- |
 | Análise e modelação da base de dados  | Novembro            | Por fazer |
 | Design e prototipagem no Figma        | Novembro – Dezembro | Por fazer |
 | Desenvolvimento do núcleo mínimo      | Dezembro – Março    | Por fazer |
