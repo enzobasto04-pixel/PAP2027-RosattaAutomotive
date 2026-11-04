@@ -34,7 +34,7 @@ A minha PAP consiste no desenvolvimento da Rosatta Automotive, uma marca fictíc
 
 ## Tecnologias
 
-| Camada                  | Tecnologia |
+| Camada                  | Tecnologia              |
 | ----------------------- | ----------------------- |
 | Interface               | HTML5, CSS3, JavaScript |
 | Servidor                | PHP (POO)               |
@@ -60,14 +60,14 @@ A minha PAP consiste no desenvolvimento da Rosatta Automotive, uma marca fictíc
 
 ## Planeamento
 
-| Fase                                 | Período             | Estado |
-| --- ---------------------------------| ------------------- | --------- |
-| Análise e modelação da base de dados | Novembro            | Por fazer |
-| Design e prototipagem no Figma       | Novembro – Dezembro | Por fazer |
-| Desenvolvimento do núcleo mínimo     | Dezembro – Março    | Por fazer |
-| Implementação dos extras             | Março – Abril       | Por fazer |
-| Testes e correções                   | Abril               | Por fazer |
-| Relatório e apresentação             | Maio – Junho        | Por fazer |
+| Fase                                  | Período             | Estado    |
+| --- --------------------------------- | ------------------- | --------- |
+| Análise e modelação da base de dados  | Novembro            | Por fazer |
+| Design e prototipagem no Figma        | Novembro – Dezembro | Por fazer |
+| Desenvolvimento do núcleo mínimo      | Dezembro – Março    | Por fazer |
+| Implementação dos extras              | Março – Abril       | Por fazer |
+| Testes e correções                    | Abril               | Por fazer |
+| Relatório e apresentação              | Maio – Junho        | Por fazer |
 
 ## Registo de progresso
 
