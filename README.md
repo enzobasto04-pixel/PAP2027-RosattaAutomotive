@@ -1,11 +1,11 @@
 # ROSATTA AUTOMOTIVE
 **PAP 2027 – TGPSI, Escola Secundária de Vergílio Ferreira**  
-Aluno: [Enzo Daniel Rosada Basto] · Turma 12.º 13.ª · N.º [7]  
+Aluno: Enzo Daniel Rosada Basto · Turma 12.º 13.ª · N.º 7  
 Professor orientador: Jorge Silva
 
 ## Descrição
 
-A minha PAP consiste no desenvolvimento da Rosatta Automotive, uma marca fictícia de automóveis de luxo criada por mim. Pretendo desenvolver uma plataforma web bilingue (português, e inglês) que permita aos utilizadores explorar diferentes modelos de veículos, personalizá-los através de um configurador interativo e guardar as suas configurações. A plataforma permitirá também solicitar Test Drives e terá um painel de administração para gerir os conteúdos e as operações do website.
+O meu projeto consiste no desenvolvimento da Rosatta Automotive, uma marca fictícia de automóveis de luxo criada por mim. Pretendo desenvolver uma plataforma web bilingue (português, e inglês) que permita aos utilizadores explorar diferentes modelos de veículos, personalizá-los através de um configurador interativo e guardar as suas configurações. A plataforma permitirá também solicitar Test Drives e terá um painel de administração para gerir os conteúdos e as operações do website.
 
 ## Objetivos
 
